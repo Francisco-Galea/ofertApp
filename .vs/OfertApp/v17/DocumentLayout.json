@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\OfertApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\views\\publicacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\views\\publicacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\views\\publicacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\views\\publicacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\models\\publicacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\models\\publicacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\models\\feedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\models\\feedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|c:\\users\\franc\\desktop\\ofertapp\\ofertapp\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB790FAA-82B3-496C-9F76-D9729BEB5AD5}|OfertApp\\OfertApp.csproj|solutionrelative:ofertapp\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicacionView.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Views\\PublicacionView.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Views\\PublicacionView.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Views\\PublicacionView.cs",
+              "RelativeToolTip": "OfertApp\\Views\\PublicacionView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:43:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicacionView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Views\\PublicacionView.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Views\\PublicacionView.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Views\\PublicacionView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OfertApp\\Views\\PublicacionView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:41:24.49Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Controllers\\MainController.cs",
+              "RelativeToolTip": "OfertApp\\Controllers\\MainController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:25:15.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Form1.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OfertApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:34:34.356Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\FeedModel.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Models\\FeedModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\FeedModel.cs",
+              "RelativeToolTip": "OfertApp\\Models\\FeedModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:53:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\PublicacionModel.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Models\\PublicacionModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\PublicacionModel.cs",
+              "RelativeToolTip": "OfertApp\\Models\\PublicacionModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwDEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:43:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "OfertApp\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\OfertApp\\OfertApp\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "OfertApp\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:40:10.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
